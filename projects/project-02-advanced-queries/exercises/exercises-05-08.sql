@@ -4,7 +4,7 @@ SQL Fundamentals
 Project 02 – Advanced SQL Queries
 Exercises 05–08
 
-Author: Gabriela Valois
+Author: Gabriela Favaretto
 Institution: Faculdade Infnet
 Database: SQLite
 ==================================================
