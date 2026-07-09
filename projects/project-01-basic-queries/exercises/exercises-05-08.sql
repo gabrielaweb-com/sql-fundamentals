@@ -2,6 +2,10 @@
 ==================================================
 Project 01 - Basic SQL Queries
 Exercises 05–08
+
+Author: Gabriela Valois
+Institution: Faculdade Infnet
+Database: SQLite
 ==================================================
 */
 
