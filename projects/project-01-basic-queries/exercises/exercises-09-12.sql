@@ -4,7 +4,7 @@ SQL Fundamentals
 Project 01 – Basic SQL Queries
 Exercises 09–12
 
-Author: Gabriela Valois
+Author: Gabriela Favaretto
 Institution: Faculdade Infnet
 Database: SQLite
 ==================================================
