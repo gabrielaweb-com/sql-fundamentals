@@ -3,7 +3,7 @@
 Project 01 - Basic SQL Queries
 Exercises 01–04
 
-Author: Gabriela Valois
+Author: Gabriela Favaretto
 Institution: Faculdade Infnet
 Database: SQLite
 ==================================================
